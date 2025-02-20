@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>加入微信群</title>
+</head>
+<body>
+    <h1>扫描二维码加入微信群</h1>
+    < img src="your-wechat-qr-code.png" alt="微信群二维码">
+    <p>或点击 这里 加入微信群。</p >
+</body>
+</html>
